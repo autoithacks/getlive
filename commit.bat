@@ -1,6 +1,6 @@
 rem git add output.m3u8
 
-git push -f origin master
+git push -f origin mains
 git add .
 
 git commit    -m "your comment here"
